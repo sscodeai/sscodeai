@@ -1,8 +1,12 @@
-<img src="img/avatar-3d.png" alt="SS" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
-
-# 👋 Hi, I'm SS (sscodeai)
-
-**Agentic SWE / AI delivery platform engineer in Japan.**
+<table>
+  <tr>
+    <td width="130" valign="middle"><img src="img/avatar-3d.png" alt="SS" width="110" style="border-radius: 50%;" /></td>
+    <td valign="middle">
+      <b style="font-size: 24px;">👋 Hi, I'm SS (sscodeai)</b><br/>
+      <i>Agentic SWE / AI delivery platform engineer in Japan.</i>
+    </td>
+  </tr>
+</table>
 
 I build AI that must survive production: **affordable, trustworthy, accountable.**
 My work is organized around one belief — AI entering enterprise production has to pass three gates at once, and I build a system for each gate.
