@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="130" valign="middle"><img src="img/avatar-3d.png" alt="SS" width="110" style="border-radius: 50%;" /></td>
+    <td width="130" valign="middle"><img src="img/avatar-3d.png" alt="SS" width="110" /></td>
     <td valign="middle">
-      <b style="font-size: 24px;">👋 Hi, I'm SS (sscodeai)</b><br/>
+      <h1>👋 Hi, I'm SS (sscodeai)</h1>
       <i>Agentic SWE / AI delivery platform engineer in Japan.</i>
     </td>
   </tr>
