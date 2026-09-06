@@ -1,3 +1,5 @@
+<img src="img/avatar-3d.png" alt="SS" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" />
+
 # 👋 Hi, I'm SS (sscodeai)
 
 **Agentic SWE / AI delivery platform engineer in Japan.**
