@@ -33,3 +33,12 @@ My work is organized around one belief — AI entering enterprise production has
 | [**proctor**](https://github.com/sscodeai/proctor) | Agent Eval tool: score, audit & explain agent trajectories — metrics + causal failure attribution. |
 | [**decision-workbench**](https://github.com/sscodeai/decision-workbench) | Expand the decision space before you decide — multi-model committee + human final call. Hidden-gold eval: 26% → 78% → 100% (12/12). |
 | [**decision-space-expansion**](https://github.com/sscodeai/decision-space-expansion) | The methodology behind decision-workbench, as a portable Agent Skill (EN/JA). Works with Claude Code, Cursor, Codex, Gemini CLI. |
+
+## 🌏 Japanese-market work
+
+| Project | What it does |
+|---|---|
+| [**agency-agents-ja**](https://github.com/sscodeai/agency-agents-ja) | 323 production-ready AI agents for Japanese dev teams — Claude Code / Cursor / Copilot. |
+| [**skills-ja-JP**](https://github.com/sscodeai/skills-ja-JP) · [**superpowers-ja**](https://github.com/sscodeai/superpowers-ja) | Japanese localizations of engineering skill packs for AI coding agents. |
+
+---
