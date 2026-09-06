@@ -23,7 +23,7 @@ My work is organized around one belief — AI entering enterprise production has
 | Project | What it does |
 |---|---|
 | [**fusion-cache**](https://github.com/sscodeai/fusion-cache) | LLM API caching middleware: exact-match → semantic → upstream prefix-cache. 91 tests, up to 97% cost cut. |
-| [**dsh-llm-cache**](https://github.com/deepseek-ai/deepseek-harness/tree/main/packages/llm/llm-cache) | LLM response cache merged upstream into DeepSeek Harness (`@deepseek-ai/dsh-llm-cache`) — my contribution to the official repo. |
+| [**dsh-llm-cache**](https://github.com/sscodeai/deepseek-harness/tree/feat/llm-cache/packages/llm/llm-cache) | LLM response cache merged upstream into DeepSeek Harness (`@deepseek-ai/dsh-llm-cache`) — my contribution to the official repo. |
 
 ## ✅ Verified — agents propose, humans decide
 
