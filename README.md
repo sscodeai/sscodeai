@@ -42,3 +42,7 @@ My work is organized around one belief — AI entering enterprise production has
 | [**skills-ja-JP**](https://github.com/sscodeai/skills-ja-JP) · [**superpowers-ja**](https://github.com/sscodeai/superpowers-ja) | Japanese localizations of engineering skill packs for AI coding agents. |
 
 ---
+
+**Sites:**
+- [**www.sscodeai.com**](https://www.sscodeai.com) — my portfolio: story, resume & project deep-dives
+- [**sscodeai.com**](https://sscodeai.com) — docs system (Nimbus, Cloudflare open-source framework): product docs, tutorials & Japanese-market agent toolkits
