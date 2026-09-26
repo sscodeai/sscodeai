@@ -31,7 +31,7 @@ I build AI that must survive production: **affordable, trustworthy, accountable.
 
 ## 🌏 Japanese-market work
 
-- **[agency-agents-ja](https://github.com/sscodeai/agency-agents-ja)** — 323 production-ready AI agents for Japanese dev teams, for Claude Code / Cursor / Copilot.
+- **[agency-agents-ja](https://github.com/sscodeai/agency-agents-ja)** — 404 production-ready AI agents for Japanese dev teams (125 Japan-original), for Claude Code / Cursor / Copilot.
 - **[skills-ja-JP](https://github.com/sscodeai/skills-ja-JP)** · **[superpowers-ja](https://github.com/sscodeai/superpowers-ja)** — Japanese localizations of engineering skill packs for AI coding agents.
 
 ---
